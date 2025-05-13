@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bg {
+    background-image: url(./ASSETS/d49e7118c4f176e6fecf074b34f8c87c.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+.logo{
+    display: flex;
+    justify-content: center;
+}
+
+.table{
+display: flex;
+justify-content: center;
+
+}
+.table{
+    border-spacing: 10px;
+}
+th,
+td{
+    border-collapse: collapse;
+    padding: 20px;
+    background-color: black;
+color: white;
+}
+th{
+    font-size: 50px;
+}
+
+
+    
+
